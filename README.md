@@ -1,0 +1,2 @@
+# AlgorithmAndDatastructure
+雑多なアルゴリズム，データ構造を実装して突っ込んでおく場所．
